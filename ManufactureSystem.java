@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.industry;
+
 import java.util.*;
 public class ManufactureSystem {
 

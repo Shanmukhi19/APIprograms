@@ -1,4 +1,4 @@
-package com.exception;
+
 import java.util.Scanner;
  class NegativeNumberException extends Exception{
 
